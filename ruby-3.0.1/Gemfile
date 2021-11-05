@@ -1,0 +1,24 @@
+source 'https://rubygems.org'
+
+ruby '3.0.1'
+
+gem 'pg'
+gem 'sequel'
+
+gem 'rack'
+gem 'rack-contrib'
+
+gem 'falcon'
+gem 'async'
+gem 'async-websocket'
+
+gem 'bcrypt'
+gem 'rack_csrf'
+
+gem 'dotenv'
+gem 'hash_delegator'
+gem 'erubi'
+gem 'inflection'
+gem 'invokable'
+
+gem 'concurrent-ruby'
